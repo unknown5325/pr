@@ -321,7 +321,7 @@ n_50000ap = [
 n_1000000a = [
         Sortirovki_cpython(lis_almost_10).bubble_sort()[0],  Sortirovki_cpython(lis_almost_10).selection_sort()[0], Sortirovki_cpython(lis_almost_10).insertion_sort()[0],
         Sortirovki_cpython(lis_almost_10).quick_sort()[0], Sortirovki_cpython(lis_almost_10).merge_sort()[0], Sortirovki_cpython(lis_almost_10).heap_sort()[0],
-        Sortirovki_cpython(lis_almost_1000000).counting_sort(), Sortirovki_cpython(lis_almost_1000000).radix_sort(), Sortirovki_cpython(lis_almost_1000000).bucket_sort()
+        Sortirovki_cpython(lis_almost_1000000).counting_sort()[0], Sortirovki_cpython(lis_almost_1000000).radix_sort()[0], Sortirovki_cpython(lis_almost_1000000).bucket_sort()[0]
             ]
 
 n_1000000ap = [
